@@ -1,0 +1,9 @@
+.*
+*.pyc
+test2/
+__pycache__/
+results/
+pretrained/
+!.gitignore
+__pycache__
+output/*
